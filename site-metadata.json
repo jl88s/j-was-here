@@ -1,0 +1,28 @@
+{
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "ghostcat",
+        "tagline": "Header Tagline",
+        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--lYVvPGx1--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/105881/3752cebf-de15-43a2-bd39-0bf67e8ea317.gif",
+        "bg": "dark",
+        "has_nav": true,
+        "has_social": true
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "text": "Made with Stackbit",
+                "url": "https://www.stackbit.com",
+                "new_window": true
+            },
+            {
+                "text": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true
+            }
+        ]
+    },
+    "title": "Stackbit Fresh Theme"
+}
